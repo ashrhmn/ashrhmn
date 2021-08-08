@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-##I am **Ashik**
+## I am **Ashik**
+### Studying Computer Science in AIUB
 
 <!--
 **ashrhmn/ashrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

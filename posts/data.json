@@ -2,5 +2,13 @@
   {
     "name": "P1 Blog",
     "dir": "/p1.md"
+  },
+  {
+    "name": "P2 Blog Some title",
+    "dir": "/p2.md"
+  },
+  {
+    "name": "P3 Blog Some extended title",
+    "dir": "/p3.md"
   }
 ]

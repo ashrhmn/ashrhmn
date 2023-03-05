@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 hrs 34 mins  ██████████████░░░░░░░░░░░   55.39 %
-Solidity     5 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-Prisma       1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Vue.js       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Docker       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+From: 14 June 2022 - To: 04 March 2023
+
+Total Time: 562 hrs 34 mins
+
+TypeScript            231 hrs 24 mins ██████████▒░░░░░░░░░░░░░░   41.13 %
+Other                 223 hrs 42 mins ██████████░░░░░░░░░░░░░░░   39.77 %
 ```
 
 <!--END_SECTION:waka-->

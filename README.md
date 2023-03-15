@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 13 March 2023
+From: 14 June 2022 - To: 14 March 2023
 
-Total Time: 649 hrs 3 mins
+Total Time: 659 hrs 43 mins
 
-TypeScript            278 hrs 35 mins ██████████▓░░░░░░░░░░░░░░   42.92 %
-Other                 257 hrs 18 mins ██████████░░░░░░░░░░░░░░░   39.64 %
+TypeScript            285 hrs 11 mins ██████████▓░░░░░░░░░░░░░░   43.23 %
+Other                 261 hrs 9 mins  ██████████░░░░░░░░░░░░░░░   39.59 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,8 +28,8 @@ Other                 281 hrs 22 mins ██████████▒░░░
 <!--END_SECTION:waka-->
 
 
-### Most Used Languages
+<!--### Most Used Languages
 <img src="https://wakatime.com/share/@ashrhmn/24ecb986-5bf8-4607-af7f-0aab08908d8c.png" />
 
 ### Favourite Tools
-<img src="https://wakatime.com/share/@ashrhmn/f4e08015-f3bc-460a-9228-95a3ba11c604.png" />
+<img src="https://wakatime.com/share/@ashrhmn/f4e08015-f3bc-460a-9228-95a3ba11c604.png" />-->

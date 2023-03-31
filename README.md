@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 29 March 2023
+From: 14 June 2022 - To: 30 March 2023
 
-Total Time: 779 hrs 16 mins
+Total Time: 785 hrs 10 mins
 
-Other                 348 hrs 37 mins ███████████▒░░░░░░░░░░░░░   44.74 %
+Other                 352 hrs 29 mins ███████████▒░░░░░░░░░░░░░   44.89 %
 ```
 
 <!--END_SECTION:waka-->

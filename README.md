@@ -16,11 +16,17 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 04 May 2023
+From: 14 June 2022 - To: 05 May 2023
 
-Total Time: 927 hrs 47 mins
+Total Time: 929 hrs 14 mins
 
-Other                 439 hrs 22 mins ████████████░░░░░░░░░░░░░   47.36 %
+Other                 439 hrs 22 mins ███████████▓░░░░░░░░░░░░░   47.28 %
+TypeScript            354 hrs 44 mins █████████▓░░░░░░░░░░░░░░░   38.18 %
+Solidity              32 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Java                  23 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON                  10 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript            8 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Docker                6 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->

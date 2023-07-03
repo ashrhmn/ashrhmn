@@ -16,19 +16,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 01 July 2023
+From: 14 June 2022 - To: 02 July 2023
 
-Total Time: 1,238 hrs 39 mins
+Total Time: 1,246 hrs 26 mins
 
-Other                 529 hrs 51 mins ██████████▓░░░░░░░░░░░░░░   42.78 %
-TypeScript            526 hrs 57 mins ██████████▓░░░░░░░░░░░░░░   42.54 %
-Solidity              55 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Java                  23 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JSON                  17 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JavaScript            11 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Docker                7 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript            532 hrs 50 mins ██████████▓░░░░░░░░░░░░░░   42.75 %
+Other                 530 hrs 54 mins ██████████▓░░░░░░░░░░░░░░   42.59 %
+Solidity              55 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Java                  23 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JSON                  18 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript            11 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Docker                7 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 Rust                  6 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Bash                  6 hrs 39 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Bash                  6 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Python                5 hrs 57 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 

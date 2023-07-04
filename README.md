@@ -16,20 +16,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 02 July 2023
+From: 14 June 2022 - To: 03 July 2023
 
-Total Time: 1,246 hrs 26 mins
+Total Time: 1,254 hrs 49 mins
 
-TypeScript            532 hrs 50 mins ██████████▓░░░░░░░░░░░░░░   42.75 %
-Other                 530 hrs 54 mins ██████████▓░░░░░░░░░░░░░░   42.59 %
-Solidity              55 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Java                  23 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-JSON                  18 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-JavaScript            11 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Docker                7 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Rust                  6 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Bash                  6 hrs 43 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Python                5 hrs 57 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript            534 hrs 43 mins ██████████▓░░░░░░░░░░░░░░   42.61 %
+Other                 533 hrs 48 mins ██████████▓░░░░░░░░░░░░░░   42.54 %
+Solidity              57 hrs 28 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Java                  23 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JSON                  18 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript            11 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Docker                7 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Rust                  6 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Bash                  6 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python                5 hrs 57 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->

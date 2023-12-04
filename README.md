@@ -16,25 +16,25 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 02 December 2023
+From: 14 June 2022 - To: 03 December 2023
 
-Total Time: 1,924 hrs 20 mins
+Total Time: 1,928 hrs 11 mins
 
-TypeScript                 914 hrs 15 mins ████████████░░░░░░░░░░░░░   47.51 %
-Other                      571 hrs 51 mins ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-Go                         83 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Solidity                   69 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TypeScript                 915 hrs 12 mins ████████████░░░░░░░░░░░░░   47.46 %
+Other                      571 hrs 51 mins ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+Go                         85 hrs 49 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Solidity                   69 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 JSON                       56 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-JavaScript                 50 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Java                       23 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+JavaScript                 50 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Java                       23 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 Bash                       20 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Docker                     18 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 YAML                       17 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-HTML                       14 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+HTML                       14 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 C#                         13 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Markdown                   9 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Markdown                   9 hrs 23 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Rust                       7 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Python                     6 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python                     6 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->

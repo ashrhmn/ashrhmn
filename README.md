@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 05 September 2024
+From: 14 June 2022 - To: 06 September 2024
 
-Total Time: 2,483 hrs 29 mins
+Total Time: 2,486 hrs 39 mins
 
-TypeScript                 1,280 hrs 12 mins█████████████░░░░░░░░░░░░   51.55 %
-Other                      582 hrs 27 mins ██████░░░░░░░░░░░░░░░░░░░   23.46 %
-Go                         115 hrs 20 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Solidity                   105 hrs 53 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-JavaScript                 70 hrs 25 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TypeScript                 1,282 hrs 49 mins█████████████░░░░░░░░░░░░   51.59 %
+Other                      582 hrs 27 mins ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Go                         115 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Solidity                   105 hrs 58 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript                 70 hrs 25 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 JSON                       67 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 Bash                       39 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Java                       23 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %

@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 12 December 2024
+From: 14 June 2022 - To: 13 December 2024
 
-Total Time: 2,678 hrs 9 mins
+Total Time: 2,678 hrs 43 mins
 
-TypeScript                 1,427 hrs 47 mins█████████████▒░░░░░░░░░░░   53.32 %
-Other                      582 hrs 52 mins █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+TypeScript                 1,428 hrs 21 mins█████████████▒░░░░░░░░░░░   53.33 %
+Other                      582 hrs 52 mins █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
 Go                         125 hrs 23 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 Solidity                   117 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 JavaScript                 73 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %

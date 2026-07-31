@@ -16,18 +16,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 29 July 2026
+From: 14 June 2022 - To: 30 July 2026
 
-Total Time: 6,076 hrs 51 mins
+Total Time: 6,079 hrs 31 mins
 
-TypeScript                 3,804 hrs 43 mins     ███████████████▓░░░░░░░░░   62.61 %
-Other                      667 hrs 46 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Go                         218 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Solidity                   160 hrs 46 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript                 3,804 hrs 43 mins     ███████████████▓░░░░░░░░░   62.59 %
+Other                      667 hrs 46 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Go                         219 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Solidity                   160 hrs 46 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Bash                       157 hrs 21 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 Git                        140 hrs 50 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 JSON                       119 hrs 39 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Markdown                   110 hrs 37 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Markdown                   112 hrs 5 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 JavaScript                 99 hrs 50 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 Rust                       92 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 YAML                       74 hrs 12 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %

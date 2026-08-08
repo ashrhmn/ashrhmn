@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2022 - To: 06 August 2026
+From: 14 June 2022 - To: 07 August 2026
 
-Total Time: 6,104 hrs 52 mins
+Total Time: 6,105 hrs 44 mins
 
-TypeScript                 3,805 hrs 3 mins      ███████████████▓░░░░░░░░░   62.33 %
+TypeScript                 3,805 hrs 3 mins      ███████████████▓░░░░░░░░░   62.32 %
 Other                      690 hrs 43 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Go                         220 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Go                         221 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 Solidity                   160 hrs 46 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Bash                       157 hrs 21 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 Git                        140 hrs 50 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
@@ -34,7 +34,7 @@ YAML                       74 hrs 12 mins        ▒░░░░░░░░░�
 Docker                     42 hrs 9 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Dart                       31 hrs 55 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 sh                         30 hrs 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-HTML                       25 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+HTML                       25 hrs 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
